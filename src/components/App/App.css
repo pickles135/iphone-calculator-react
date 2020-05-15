@@ -22,7 +22,8 @@
 };
 
 .buttons {
-
+  display: grid;
+  grid-gap: 20px;
 };
 
 .bottom {
