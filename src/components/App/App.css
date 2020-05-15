@@ -9,23 +9,23 @@
   -ms-border-radius: 50px;
   -o-border-radius: 50px;
   padding: 20px;
-};
+}
 
 .top {
   height: 250px;
   padding: 0 20px;
-};
+}
 
 .display {
   font-size: 130px;
   margin-bottom: 20px;
-};
+}
 
 .buttons {
   display: grid;
   grid-gap: 20px;
-};
+}
 
 .bottom {
 
-};
+}
