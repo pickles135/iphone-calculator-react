@@ -9,9 +9,9 @@ const App = () => {
     <div className="top">4:43</div>
     <div className="display">0</div>
     <div className="buttons">
-      <Button content = 'AC'/>
-      <Button content = '±'/>
-      <Button content = '%'/>
+      <Button content = 'AC' type='function' />
+      <Button content = '±' type='function' />
+      <Button content = '%' type='function' />
       <Button content = '÷'/>
       <Button content = '7'/>
       <Button content = '8'/>
