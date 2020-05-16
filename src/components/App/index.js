@@ -24,6 +24,10 @@ const App = () => {
       <Button content = '1'/>
       <Button content = '2'/>
       <Button content = '3'/>
+      <Button content = '+'/>
+      <Button content = '0'/>
+      <Button content = '.'/>
+      <Button content = '='/>
     </div>
     <div className="bottom">-</div>
   </div>
