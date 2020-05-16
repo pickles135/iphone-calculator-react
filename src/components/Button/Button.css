@@ -16,5 +16,13 @@
 
 .Button.zero {
   width: 250px;
-  grid-column: 1 / span 2 /*This is to set element on first column and span two columns*/
+  grid-column: 1 / span 2;
+  border-radius: 57.5px;
+  -webkit-border-radius: 57.5px;
+  -moz-border-radius: 57.5px;
+  -ms-border-radius: 57.5px;
+  -o-border-radius: 57.5px;
+  position: relative;
+  justify-content: flex-start;
+  padding-left: 43px;
 }
