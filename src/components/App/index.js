@@ -13,6 +13,9 @@ const App = () => {
       <Button content = '±'/>
       <Button content = '%'/>
       <Button content = '÷'/>
+      <Button content = '7'/>
+      <Button content = '8'/>
+      <Button content = '9'/>
     </div>
     <div className="bottom">-</div>
   </div>
