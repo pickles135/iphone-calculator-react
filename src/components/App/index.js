@@ -20,6 +20,10 @@ const App = () => {
       <Button content = '4'/>
       <Button content = '5'/>
       <Button content = '6'/>
+      <Button content = '-'/>
+      <Button content = '1'/>
+      <Button content = '2'/>
+      <Button content = '3'/>
     </div>
     <div className="bottom">-</div>
   </div>
