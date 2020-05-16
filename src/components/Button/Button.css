@@ -31,3 +31,7 @@
   color: black;
   background: #a5a5aa;
 }
+
+.Button.operator {
+  background: #f1a33c;
+}
