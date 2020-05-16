@@ -13,3 +13,25 @@
   justify-content: center;
   width: 110px;
 }
+
+.Button.zero {
+  width: 250px;
+  grid-column: 1 / span 2;
+  border-radius: 57.5px;
+  -webkit-border-radius: 57.5px;
+  -moz-border-radius: 57.5px;
+  -ms-border-radius: 57.5px;
+  -o-border-radius: 57.5px;
+  position: relative;
+  justify-content: flex-start;
+  padding-left: 43px;
+}
+
+.Button.function {
+  color: black;
+  background: #a5a5aa;
+}
+
+.Button.operator {
+  background: #f1a33c;
+}
