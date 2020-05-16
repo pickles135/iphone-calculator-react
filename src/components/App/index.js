@@ -11,6 +11,8 @@ const App = () => {
     <div className="buttons">
       <Button content = 'AC'/>
       <Button content = '±'/>
+      <Button content = '%'/>
+      <Button content = '÷'/>
     </div>
     <div className="bottom">-</div>
   </div>
