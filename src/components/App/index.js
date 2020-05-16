@@ -10,6 +10,7 @@ const App = () => {
     <div className="display">0</div>
     <div className="buttons">
       <Button content = 'AC'/>
+      <Button content = '±'/>
     </div>
     <div className="bottom">-</div>
   </div>
