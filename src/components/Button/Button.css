@@ -16,4 +16,5 @@
 
 .Button.zero {
   width: 250px;
+  grid-column: 1 / span 2 /*This is to set element on first column and span two columns*/
 }
