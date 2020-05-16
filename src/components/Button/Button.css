@@ -26,3 +26,8 @@
   justify-content: flex-start;
   padding-left: 43px;
 }
+
+.Button.function {
+  color: black;
+  background: #a5a5aa;
+}
