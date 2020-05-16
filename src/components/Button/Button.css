@@ -13,3 +13,7 @@
   justify-content: center;
   width: 110px;
 }
+
+.Button.zero {
+  width: 250px;
+}
